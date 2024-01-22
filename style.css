@@ -111,6 +111,9 @@ button:active {
 
 /* Media Queries */
 @media screen and (max-width: 1000px) {
+  bodt {
+    min-height: 100dvh;
+  }
   .quote-container {
     margin: auto 10px;
   }
