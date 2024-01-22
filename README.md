@@ -2,6 +2,9 @@
 
 Welcome to **Your Quote App**! This is a simple web application built with HTML, CSS, and JavaScript, utilizing the Fetch API to retrieve and display quotes. The app features a loader to enhance user experience during the quote-fetching process and also integrates with Twitter, allowing users to share their favorite quotes with a single click.
 
+<img width="960" alt="image" src="https://github.com/FinzyPHINZY/Quotes-Generator/assets/102292855/535e23a0-6e89-4e7d-ab64-8d2cafe15554">
+
+
 ## Quick Start
 
 To get started with the app, follow these steps:
